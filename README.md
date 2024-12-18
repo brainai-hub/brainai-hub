@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+2024 디지털새싹 인공지능 메이커톤 운영 홈페이지 링크 https://sites.google.com/brainai.co.kr/openvino/home 
+
 <!--
 **brainai-hub/brainai-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
